@@ -39,5 +39,3 @@ The final output is stored in a CSV file for easy analysis.
 
 ---
 
-## 📂 Project Structure
-
